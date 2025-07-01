@@ -1,0 +1,75 @@
+,match_id,date,venue,team1,team2,stage,toss_winner,toss_decision,first_innings_score,first_innings_wickets,second_innings_score,second_innings_wickets,match_result,match_winner,wide ball runs,wide wickets,balls_left,player_of_the_match,top_scorer,highscore,best_bowling,best_bowling_figure,best_bowling_wickets1,best_bowling_runs,toss_win_match_win
+0,1,2025-03-22,"Eden Gardens, Kolkata",KKR,RCB,League,RCB,Bowl,174.0,8.0,177.0,3.0,completed,RCB,25.0,7.0,22.0,Krunal Pandya,Virat Kohli,59.0,Krunal Pandya,3--29,3,29,True
+1,2,2025-03-23,"Rajiv Gandhi International Stadium, Hyderabad",SRH,RR,League,RR,Bowl,286.0,6.0,242.0,6.0,completed,SRH,44.0,7.0,0.0,Ishan Kishan,Ishan Kishan,106.0,Tushar Deshpande,3--44,3,44,False
+2,3,2025-03-23,"MA Chidambaram Stadium, Chennai",CSK,MI,League,CSK,Bowl,155.0,9.0,158.0,6.0,completed,CSK,25.0,4.0,5.0,Noor Ahmad,Rachin Ravindra,65.0,Noor Ahmad,4--18,4,18,True
+3,4,2025-03-24,"ACA-VDCA Cricket Stadium, Vishakhapatnam",DC,LSG,League,DC,Bowl,209.0,8.0,211.0,9.0,completed,DC,25.0,1.0,3.0,Ashutosh Sharma,Nicholas Pooran,75.0,Mitchell Starc,3--42,3,42,True
+4,5,2025-03-25,"Narendra Modi Stadium, Ahmedabad",GT,PBKS,League,GT,Bowl,243.0,5.0,232.0,5.0,completed,PBKS,11.0,7.0,0.0,Shreyas Iyer,Shreyas Iyer,97.0,Sai Kishore,3--30,3,30,False
+5,6,2025-03-26,"Barsapara Stadium, Guwahati",RR,KKR,League,KKR,Bowl,151.0,9.0,153.0,2.0,completed,KKR,25.0,8.0,15.0,Quinton de Kock,Quinton de Kock,97.0,Varun Chakravarthy,2--17,2,17,True
+6,7,2025-03-27,"Rajiv Gandhi International Stadium, Hyderabad",SRH,LSG,League,LSG,Bowl,190.0,9.0,193.0,5.0,completed,LSG,25.0,5.0,23.0,Shardul Thakur,Nicholas Pooran,70.0,Shardul Thakur,4--34,4,34,True
+7,8,2025-03-28,"MA Chidambaram Stadium, Chennai",CSK,RCB,League,CSK,Bowl,196.0,7.0,146.0,8.0,completed,RCB,50.0,7.0,0.0,Rajat Patidar,Rajat Patidar,51.0,Josh Hazlewood,3--21,3,21,False
+8,9,2025-03-29,"Narendra Modi Stadium, Ahmedabad",GT,MI,League,MI,Bowl,196.0,8.0,160.0,6.0,completed,GT,36.0,7.0,0.0,Prasidh Krishna,Sai Sudarshan,63.0,Prasidh Krishna,2--18,2,18,False
+9,10,2025-03-30,"ACA-VDCA Cricket Stadium, Vishakhapatnam",DC,SRH,League,SRH,Bat,163.0,10.0,166.0,3.0,completed,DC,25.0,7.0,24.0,Mitchell Starc,Aniket Verma,74.0,Mitchell Starc,5--35,5,35,False
+10,11,2025-03-30,"Barsapara Stadium, Guwahati",RR,CSK,League,CSK,Bowl,182.0,9.0,176.0,6.0,completed,RR,6.0,7.0,0.0,Nitish Rana,Nitish Rana,81.0,Wanindu Hasranga,4--35,4,35,False
+11,12,2025-03-31,"Wankhede Stadium, Mumbai",MI,KKR,League,MI,Bowl,116.0,10.0,121.0,2.0,completed,MI,25.0,8.0,43.0,Ashwani Kumar,Ryan Rickelton,62.0,Ashwani Kumar,4--24,4,24,True
+12,13,2025-04-01,"Ekana Cricket Stadium, Lucknow",LSG,PBKS,League,PBKS,Bowl,171.0,7.0,177.0,2.0,completed,PBKS,25.0,8.0,22.0,Prabhsimran Singh,Prabhsimran Singh,69.0,Arshdeep Singh,3--43,3,43,True
+13,14,2025-04-02,"M. Chinnaswamy Stadium, Bangalore",RCB,GT,League,GT,Bowl,169.0,8.0,170.0,2.0,completed,GT,25.0,8.0,13.0,Mohammed Siraj,Jos Buttler,73.0,Mohammed Siraj,3--19,3,19,True
+14,15,2025-04-03,"Eden Gardens, Kolkata",KKR,SRH,League,SRH,Bowl,200.0,6.0,120.0,10.0,completed,KKR,80.0,7.0,20.0,Vaibhav Arora,Venkatesh Iyer,60.0,Varun Chakravarthy,3--22,3,22,False
+15,16,2025-04-04,"Ekana Cricket Stadium, Lucknow",LSG,MI,League,MI,Bowl,203.0,8.0,191.0,5.0,completed,LSG,12.0,7.0,0.0,Digvesh Singh,Suryakumar Yadav,67.0,Hardik Pandya,5--36,5,36,False
+16,17,2025-04-05,"MA Chidambaram Stadium, Chennai",CSK,DC,League,DC,Bat,183.0,6.0,158.0,5.0,completed,DC,25.0,7.0,0.0,KL Rahul,KL Rahul,77.0,Khaleel Ahmed,2--25,2,25,True
+17,18,2025-04-05,"New PCA Cricket Stadium, Mullanpur",PBKS,RR,League,PBKS,Bowl,205.0,4.0,155.0,9.0,completed,RR,50.0,7.0,0.0,Jofra Archer,Yashasvi Jaiswal,67.0,Jofra Archer,3--25,3,25,False
+18,19,2025-04-06,"Rajiv Gandhi International Stadium, Hyderabad",SRH,GT,League,GT,Bowl,152.0,8.0,153.0,3.0,completed,GT,25.0,7.0,20.0,Mohammed Siraj,Shubman Gill,61.0,Mohammed Siraj,4--17,4,17,True
+19,20,2025-04-07,"Wankhede Stadium, Mumbai",MI,RCB,League,MI,Bowl,221.0,5.0,209.0,9.0,completed,RCB,12.0,7.0,0.0,Rajat Patidar,Virat Kohli,67.0,Krunal Pandya,4--45,4,45,False
+20,21,2025-04-08,"Eden Gardens, Kolkata",KKR,LSG,League,KKR,Bowl,238.0,3.0,234.0,7.0,completed,LSG,4.0,7.0,0.0,Nicholas Pooran,Nicholas Pooran,87.0,Harshit Rana,2--51,2,51,False
+21,22,2025-04-08,"New PCA Cricket Stadium, Mullanpur",PBKS,CSK,League,PBKS,Bat,219.0,6.0,201.0,5.0,completed,PBKS,18.0,7.0,0.0,Priyansh Arya,Priyansh Arya,103.0,Lockie Ferguson,2--40,2,40,True
+22,23,2025-04-09,"Narendra Modi Stadium, Ahmedabad",GT,RR,League,RR,Bowl,217.0,6.0,159.0,10.0,completed,GT,58.0,7.0,4.0,Sai Sudarshan,Sai Sudarshan,82.0,Prasidh Krishna,3--24,3,24,False
+23,24,2025-04-10,"M. Chinnaswamy Stadium, Bangalore",RCB,DC,League,DC,Bowl,163.0,7.0,169.0,4.0,completed,DC,25.0,6.0,13.0,KL Rahul,KL Rahul,93.0,Kuldeep Yadav,2--17,2,17,True
+24,25,2025-04-11,"MA Chidambaram Stadium, Chennai",CSK,KKR,League,KKR,Bowl,103.0,9.0,107.0,2.0,completed,KKR,25.0,8.0,59.0,Sunil Narine,Sunil Narine,44.0,Sunil Narine,3--13,3,13,True
+25,26,2025-04-12,"Ekana Cricket Stadium, Lucknow",LSG,GT,League,LSG,Bowl,180.0,6.0,186.0,4.0,completed,LSG,25.0,6.0,3.0,Aiden Markram,Nicholas Pooran,61.0,Prasidh Krishna,2--26,2,26,True
+26,27,2025-04-12,"Rajiv Gandhi International Stadium, Hyderabad",SRH,PBKS,League,PBKS,Bat,245.0,6.0,247.0,2.0,completed,SRH,25.0,8.0,9.0,Abhishek Sharma,Abhishek Sharma,141.0,Harshal Patel,4--42,4,42,False
+27,28,2025-04-13,"Sawai Mansingh Stadium, Jaipur",RR,RCB,League,RCB,Bowl,173.0,4.0,175.0,1.0,completed,RCB,25.0,9.0,15.0,Phil Salt,Yashasvi Jaiswal,75.0,Krunal Pandya,1--29,1,29,True
+28,29,2025-04-13,"Arun Jaitley Stadium, Delhi",DC,MI,League,DC,Bowl,205.0,5.0,193.0,10.0,completed,DC,12.0,7.0,6.0,Karn Sharma,Karun Nair,89.0,Karn Sharma,3--36,3,36,True
+29,30,2025-04-14,"Ekana Cricket Stadium, Lucknow",LSG,CSK,League,CSK,Bowl,166.0,7.0,168.0,5.0,completed,CSK,25.0,5.0,3.0,MS Dhoni,Rishabh Pant,63.0,Ravi Bishnoi,2--18,2,18,True
+30,31,2025-04-15,"New PCA Cricket Stadium, Mullanpur",PBKS,KKR,League,PBKS,Bat,111.0,10.0,95.0,10.0,completed,PBKS,16.0,7.0,29.0,Yuzvendra Chahal,Angkrish Raghuvanshi,37.0,Yuzvendra Chahal,4--28,4,28,True
+31,32,2025-04-16,"Arun Jaitley Stadium, Delhi",DC,RR,League,RR,Bowl,188.0,5.0,188.0,4.0,completed,DC,25.0,7.0,0.0,Mitchell Starc,Nitish Rana,51.0,Jofra Archer,2--32,2,32,False
+32,33,2025-04-17,"Wankhede Stadium, Mumbai",MI,SRH,League,MI,Bowl,162.0,5.0,166.0,6.0,completed,MI,25.0,4.0,11.0,Will Jacks,Abhishek Sharma,40.0,Pat Cummins,3--36,3,36,True
+33,34,2025-04-18,"M. Chinnaswamy Stadium, Bangalore",RCB,PBKS,League,PBKS,Bowl,95.0,9.0,98.0,5.0,completed,PBKS,25.0,5.0,11.0,Tim David,Tim David,50.0,Josh Hazlewood,3--14,3,14,True
+34,35,2025-04-19,"Narendra Modi Stadium, Ahmedabad",GT,DC,League,GT,Bowl,203.0,8.0,204.0,3.0,completed,GT,25.0,7.0,4.0,Jos Buttler,Jos Buttler,97.0,Prasidh Krishna,4--41,4,41,True
+35,36,2025-04-19,"Sawai Mansingh Stadium, Jaipur",RR,LSG,League,LSG,Bat,180.0,5.0,178.0,5.0,completed,LSG,2.0,7.0,0.0,Avesh Khan,Yashasvi Jaiswal,74.0,Avesh Khan,3--37,3,37,True
+36,37,2025-04-20,"New PCA Cricket Stadium, Mullanpur",PBKS,RCB,League,RCB,Bowl,157.0,6.0,159.0,3.0,completed,PBKS,25.0,7.0,7.0,Virat Kohli,Virat Kohli,73.0,Krunal Pandya,2--25,2,25,False
+37,38,2025-04-20,"Wankhede Stadium, Mumbai",MI,CSK,League,MI,Bowl,176.0,5.0,177.0,1.0,completed,MI,25.0,9.0,26.0,Rohit Sharma,Rohit Sharma,76.0,Jasprit Bumrah,2--25,2,25,True
+38,39,2025-04-21,"Eden Gardens, Kolkata",KKR,GT,League,KKR,Bowl,198.0,3.0,159.0,8.0,completed,GT,39.0,7.0,0.0,Shubman Gill,Shubman Gill,90.0,Prasidh Krishna,2--25,2,25,False
+39,40,2025-04-22,"Ekana Cricket Stadium, Lucknow",LSG,DC,League,DC,Bowl,159.0,6.0,161.0,2.0,completed,DC,25.0,8.0,13.0,Mukesh Kumar,KL Rahul,57.0,Mukesh Kumar,4--33,4,33,True
+40,41,2025-04-23,"Rajiv Gandhi International Stadium, Hyderabad",SRH,MI,League,SRH,Bowl,143.0,8.0,146.0,3.0,completed,MI,25.0,7.0,26.0,Trent Boult,Heinrich Klassen,71.0,Trent Boult,4--26,4,26,False
+41,42,2025-04-24,"M. Chinnaswamy Stadium, Bangalore",RCB,RR,League,RR,Bowl,205.0,5.0,194.0,9.0,completed,RCB,11.0,7.0,0.0,Josh Hazlewood,Virat Kohli,70.0,Josh Hazlewood,4--33,4,33,False
+42,43,2025-04-25,"MA Chidambaram Stadium, Chennai",CSK,SRH,League,SRH,Bowl,154.0,10.0,155.0,5.0,completed,SRH,25.0,5.0,8.0,Harshal Patel,Ishan Kishan,44.0,Harshal Patel,4--28,4,28,True
+43,44,2025-04-26,"Eden Gardens, Kolkata",KKR,PBKS,League,PBKS,Bat,201.0,4.0,7.0,0.0,tied,,25.0,7.0,114.0,,,,,,3,28,False
+44,45,2025-04-27,"Wankhede Stadium, Mumbai",MI,LSG,League,LSG,Bowl,215.0,7.0,161.0,10.0,completed,MI,54.0,7.0,0.0,Will Jacks,Ryan Rickelton,58.0,Jasprit Bumrah,4--22,4,22,False
+45,46,2025-04-27,"Arun Jaitley Stadium, Delhi",DC,RCB,League,RCB,Bowl,162.0,8.0,165.0,4.0,completed,RCB,25.0,6.0,9.0,Krunal Pandya,Krunal Pandya,73.0,Bhuvneshwar Kumar,3--33,3,33,True
+46,47,2025-04-28,"Sawai Mansingh Stadium, Jaipur",RR,GT,League,RR,Bowl,209.0,4.0,212.0,2.0,completed,RR,25.0,8.0,25.0,Vaibhav Suryavanshi,Vaibhav Suryavanshi,101.0,Maheesh Theekshana,2--35,2,35,True
+47,48,2025-04-29,"Arun Jaitley Stadium, Delhi",DC,KKR,League,DC,Bowl,204.0,9.0,190.0,9.0,completed,KKR,14.0,7.0,0.0,Sunil Narine,Faf du Plessis,62.0,Sunil Narine,3--29,3,29,False
+48,49,2025-04-30,"MA Chidambaram Stadium, Chennai",CSK,PBKS,League,PBKS,Bowl,190.0,10.0,194.0,6.0,completed,PBKS,25.0,4.0,2.0,Shreyas Iyer,Sam Curran,88.0,Yuzvendra Chahal,4--32,4,32,True
+49,50,2025-05-01,"Sawai Mansingh Stadium, Jaipur",RR,MI,League,RR,Bowl,217.0,2.0,117.0,10.0,completed,MI,100.0,7.0,23.0,Ryan Rickelton,Ryan Rickelton,61.0,Karn Sharma,3--23,3,23,False
+50,51,2025-05-02,"Narendra Modi Stadium, Ahmedabad",GT,SRH,League,SRH,Bowl,224.0,6.0,186.0,6.0,completed,GT,38.0,7.0,0.0,Prasidh Krishna,Shubman Gill,76.0,Jaydev Unadkat,3--35,3,35,False
+51,52,2025-05-03,"M. Chinnaswamy Stadium, Bangalore",RCB,CSK,League,CSK,Bowl,213.0,5.0,211.0,5.0,completed,RCB,2.0,7.0,0.0,Romario Shepherd,Ayush Mhatre,94.0,Lungi Ngidi,3--30,3,30,False
+52,53,2025-05-04,"Eden Gardens, Kolkata",KKR,RR,League,KKR,Bat,206.0,4.0,205.0,8.0,completed,KKR,1.0,7.0,0.0,Andre Russell,Riyan Parag,95.0,Varun Chakravarthy,2--32,2,32,True
+53,54,2025-05-04,"HPCA Stadium, Dharamshala",PBKS,LSG,League,LSG,Bowl,236.0,5.0,199.0,7.0,completed,PBKS,37.0,7.0,0.0,Prabhsimran Singh,Prabhsimran Singh,91.0,Arshdeep Singh,3--16,3,16,False
+54,55,2025-05-05,"Rajiv Gandhi International Stadium, Hyderabad",SRH,DC,League,SRH,Bowl,133.0,7.0,,,tied,,25.0,7.0,,,,,,,3,28,False
+55,56,2025-05-06,"Wankhede Stadium, Mumbai",MI,GT,League,GT,Bowl,155.0,8.0,147.0,7.0,completed,GT,25.0,3.0,0.0,Shubman Gill,Will Jacks,53.0,Jasprit Bumrah,2--19,2,19,True
+56,57,2025-05-07,"Eden Gardens, Kolkata",KKR,CSK,League,KKR,Bat,179.0,6.0,183.0,8.0,completed,CSK,25.0,2.0,2.0,Noor Ahmad,Dewald Brevis,52.0,Noor Ahmad,4--31,4,31,False
+57,58,2025-05-17,"M. Chinnaswamy Stadium, Bangalore",RCB,KKR,League,,Bowl,,,,,tied,,25.0,7.0,,,,,,,3,28,False
+58,59,2025-05-18,"Sawai Mansingh Stadium, Jaipur",RR,PBKS,League,PBKS,Bat,219.0,5.0,209.0,7.0,completed,PBKS,10.0,7.0,0.0,Harpreet Brar,Nehal Wadhera,70.0,Harpreet Brar,3--22,3,22,True
+59,60,2025-05-18,"Arun Jaitley Stadium, Delhi",DC,GT,League,GT,Bowl,199.0,3.0,205.0,0.0,completed,GT,25.0,10.0,6.0,Sai Sudarshan,Sai Sudarshan,108.0,Arshad Khan,1--7,1,7,True
+60,61,2025-05-19,"Ekana Cricket Stadium, Lucknow",LSG,SRH,League,SRH,Bowl,205.0,7.0,206.0,4.0,completed,SRH,25.0,6.0,10.0,Abhishek Sharma,Mitchell Marsh,65.0,Eshan Malinga,2--28,2,28,True
+61,62,2025-05-20,"Arun Jaitley Stadium, Delhi",CSK,RR,League,RR,Bowl,187.0,8.0,188.0,4.0,completed,RR,25.0,6.0,17.0,Akash Madhwal,Vaibhav Suryavanshi,57.0,Akash Madhwal,3--29,3,29,True
+62,63,2025-05-21,"Wankhede Stadium, Mumbai",MI,DC,League,DC,Bowl,180.0,5.0,121.0,10.0,completed,MI,59.0,7.0,10.0,Suryakumar Yadav,Suryakumar Yadav,73.0,Mitchell Santner,3--11,3,11,False
+63,64,2025-05-22,"Narendra Modi Stadium, Ahmedabad",GT,LSG,League,GT,Bowl,235.0,2.0,202.0,9.0,completed,LSG,33.0,7.0,0.0,Mitchell Marsh,Mitchell Marsh,117.0,Will O'Rourke,3--27,3,27,False
+64,65,2025-05-23,"Ekana Cricket Stadium, Lucknow",RCB,SRH,League,RCB,Bowl,231.0,6.0,189.0,10.0,completed,SRH,42.0,7.0,1.0,Ishan Kishan,Ishan Kishan,94.0,Pat Cummins,3--28,3,28,False
+65,66,2025-05-24,"Sawai Mansingh Stadium, Jaipur",PBKS,DC,League,DC,Bowl,206.0,8.0,208.0,4.0,completed,DC,25.0,6.0,3.0,Sameer Rizvi,Sameer Rizvi,58.0,Mustafizur Rahman,3--33,3,33,True
+66,67,2025-05-25,"Narendra Modi Stadium, Ahmedabad",GT,CSK,League,CSK,Bat,230.0,5.0,147.0,10.0,completed,CSK,83.0,7.0,9.0,Dewald Brevis,Dewald Brevis,57.0,Noor Ahmad,3--21,3,21,True
+67,68,2025-05-25,"Arun Jaitley Stadium, Delhi",KKR,SRH,League,SRH,Bat,278.0,3.0,168.0,10.0,completed,SRH,110.0,7.0,8.0,Heinrich Klassen,Heinrich Klassen,105.0,Jaydev Unadkat,3--24,3,24,True
+68,69,2025-05-26,"Sawai Mansingh Stadium, Jaipur",PBKS,MI,League,PBKS,Bowl,184.0,7.0,187.0,3.0,completed,PBKS,25.0,7.0,9.0,Josh Inglis,Josh Inglis,73.0,Arshdeep Singh,2--28,2,28,True
+69,70,2025-05-27,"Ekana Cricket Stadium, Lucknow",LSG,RCB,League,RCB,Bowl,227.0,3.0,230.0,4.0,completed,RCB,25.0,6.0,8.0,Jitesh Sharma,Rishabh Pant,118.0,Will O'Rourke,2--74,2,74,True
+70,71,2025-05-29,"New PCA Cricket Stadium, Mullanpur",PBKS,RCB,Playoffs,RCB,Bowl,101.0,10.0,106.0,2.0,completed,RCB,25.0,8.0,60.0,Suyash Sharma,Phil Salt,56.0,Suyash Sharma,3--17,3,17,True
+71,72,2025-05-30,"New PCA Cricket Stadium, Mullanpur",GT,MI,Playoffs,MI,Bat,228.0,5.0,208.0,6.0,completed,MI,20.0,7.0,0.0,Rohit Sharma,Rohit Sharma,81.0,Sai Kishore,2--42,2,42,True
+72,73,2025-06-01,"Narendra Modi Stadium, Ahmedabad",PBKS,MI,Playoffs,PBKS,Bowl,203.0,6.0,207.0,5.0,completed,PBKS,25.0,5.0,6.0,Shreyas Iyer,Shreyas Iyer,87.0,Azmatullah Omarzai,2--43,2,43,True
+73,74,2025-06-03,"Narendra Modi Stadium, Ahmedabad",RCB,PBKS,Final,PBKS,Bowl,190.0,9.0,184.0,7.0,completed,RCB,6.0,7.0,0.0,Krunal Pandya,Shashank Singh,61.0,Arshdeep Singh,3--40,3,40,False
